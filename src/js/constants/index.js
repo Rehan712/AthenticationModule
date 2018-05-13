@@ -1,0 +1,5 @@
+export const FETCH_DATA = 'FETCH_DATA';
+export const FETCH_DATA_ATTEMPT = 'FETCH_DATA_ATTEMPT';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAIL = 'FETCH_DATA_FAIL';
+export const SAVE_FORM = 'SAVE_FORM';
